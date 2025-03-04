@@ -20,6 +20,9 @@ function Header({ lang, t, onChangeLanguage }) {
         <a href="mailto:seuCliente@gmail.com" target="_blank" rel="noreferrer">
           <i className="bi bi-envelope-fill" style={{ color: "#EA4335" }}></i>
         </a>
+        <a href="https://www.behance.net/izzustudio" target="_blank" rel="noreferrer">
+          <i className="bi bi-behance" style={{ color: "#00A4E4" }}></i>  {/* 🔵 Cor azul do Behance */}
+        </a>
       </div>
 
       <div className="logo">

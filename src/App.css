@@ -42,7 +42,9 @@ body {
   cursor: pointer;
   transition: transform 0.2s, opacity 0.2s;
 }
-
+.bi-behance {
+  color: #00A4E4 !important; /* Azul padrão do Behance */
+}
 .social-icons i:hover {
   transform: scale(1.2);
   opacity: 0.8;
