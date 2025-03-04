@@ -12,7 +12,7 @@ function Footer({ lang, t }) {
     >
       <p>
         {t.footerText}{" "}
-        <a href="https://linktr.ee/allanjose" target="_blank" rel="noreferrer" style={{ color: "#fff", textDecoration: "underline" }}>
+        <a href="https://linktr.ee/allanjosepereira" target="_blank" rel="noreferrer" style={{ color: "#fff", textDecoration: "underline" }}>
           Allan José
         </a>
       </p>

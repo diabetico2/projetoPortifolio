@@ -26,31 +26,23 @@ function Header({ lang, t, onChangeLanguage }) {
         <img src="https://via.placeholder.com/100x50?text=Logo" alt="Logo" />
       </div>
 
-      <div className="header-content">
-        <div className="profile-section">
-          <div className="profile-pic">
-            <img src="https://via.placeholder.com/200?text=Foto+do+Cliente" alt="Foto do Cliente" />
-          </div>
+      <div className="header-text">
+        <h1>
+          <TypeAnimation
+            sequence={[t.headerTitle, 1500]} // Apenas exibe o título sem piscar
+            speed={50}
+            wrapper="span"
+            repeat={0}
+          />
+        </h1>
+        <h2>{t.headerSubtitle}</h2>
+        <p>{t.description}</p>
 
-          <div className="header-text">
-            <h1>
-              <TypeAnimation
-                sequence={[t.headerTitle, 1500]} // Apenas exibe o título sem piscar
-                speed={50}
-                wrapper="span"
-                repeat={0}
-              />
-            </h1>
-            <h2>{t.headerSubtitle}</h2>
-            <p>{t.description}</p>
-
-            <div className="language-container">
-              <span>{t.language}:</span>
-              <button className="language-select" onClick={() => onChangeLanguage("pt")}>PT</button>
-              <button className="language-select" onClick={() => onChangeLanguage("en")}>EN</button>
-              <button className="language-select" onClick={() => onChangeLanguage("es")}>ES</button>
-            </div>
-          </div>
+        <div className="language-container">
+          <span>{t.language}:</span>
+          <button className="language-select" onClick={() => onChangeLanguage("pt")}>PT</button>
+          <button className="language-select" onClick={() => onChangeLanguage("en")}>EN</button>
+          <button className="language-select" onClick={() => onChangeLanguage("es")}>ES</button>
         </div>
       </div>
     </motion.header>
