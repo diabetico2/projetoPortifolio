@@ -8,20 +8,18 @@
 
 /* Remova o display flex do body para evitar que tudo fique centralizado verticalmente */
 body {
-  background-color: #000;
+  background: linear-gradient(135deg, #000000, #333333);
   color: #fff;
   min-height: 100vh;
-  /* Removido justify-content/align-items */
 }
 
 /* Centralização horizontal do conteúdo principal */
 #root {
   width: 100%;
   max-width: 1200px;
-  margin: 0 auto; 
+  margin: 0 auto;
   padding: 20px;
 }
-
 /* Header */
 .header {
   width: 100%;
@@ -125,8 +123,8 @@ body {
 .project-card {
   width: 200px;
   height: 400px;
-  background-color: #2e2e2e;
-  border: 2px solid #444;
+  background: linear-gradient(135deg, #2b2b2b, #444444);
+  border: 2px solid #555;
   border-radius: 20px;
   display: flex;
   flex-direction: column;

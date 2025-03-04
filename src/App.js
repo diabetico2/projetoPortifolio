@@ -7,7 +7,7 @@ import ProjectsGrid from "./components/ProjectsGrid";
 import Footer from "./components/Footer";
 
 function App() {
-  const [lang, setLang] = useState("pt"); // Estado para armazenar o idioma
+  const [lang, setLang] = useState("pt");
 
   const handleChangeLanguage = (newLang) => {
     if (newLang !== lang) {
@@ -19,7 +19,7 @@ function App() {
     <motion.div className="App">
       <AnimatePresence mode="wait">
         <motion.div
-          key={lang} // Atualiza a animação sempre que o idioma muda
+          key={lang}
           initial={{ opacity: 0, scale: 0.95 }}
           animate={{ opacity: 1, scale: 1 }}
           exit={{ opacity: 0, scale: 0.95 }}
