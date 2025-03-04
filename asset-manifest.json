@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diabetico2/projetoPortifolio/static/css/main.cc7d162f.css",
+    "main.js": "/diabetico2/projetoPortifolio/static/js/main.d3f4869c.js",
+    "static/js/453.6c02d200.chunk.js": "/diabetico2/projetoPortifolio/static/js/453.6c02d200.chunk.js",
+    "index.html": "/diabetico2/projetoPortifolio/index.html",
+    "main.cc7d162f.css.map": "/diabetico2/projetoPortifolio/static/css/main.cc7d162f.css.map",
+    "main.d3f4869c.js.map": "/diabetico2/projetoPortifolio/static/js/main.d3f4869c.js.map",
+    "453.6c02d200.chunk.js.map": "/diabetico2/projetoPortifolio/static/js/453.6c02d200.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7d162f.css",
+    "static/js/main.d3f4869c.js"
+  ]
+}
