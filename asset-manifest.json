@@ -1,15 +1,29 @@
 {
   "files": {
-    "main.css": "/diabetico2/projetoPortifolio/static/css/main.cc7d162f.css",
-    "main.js": "/diabetico2/projetoPortifolio/static/js/main.d3f4869c.js",
-    "static/js/453.6c02d200.chunk.js": "/diabetico2/projetoPortifolio/static/js/453.6c02d200.chunk.js",
-    "index.html": "/diabetico2/projetoPortifolio/index.html",
-    "main.cc7d162f.css.map": "/diabetico2/projetoPortifolio/static/css/main.cc7d162f.css.map",
-    "main.d3f4869c.js.map": "/diabetico2/projetoPortifolio/static/js/main.d3f4869c.js.map",
-    "453.6c02d200.chunk.js.map": "/diabetico2/projetoPortifolio/static/js/453.6c02d200.chunk.js.map"
+    "main.css": "/projetoPortifolio/static/css/main.546ba2a8.css",
+    "main.js": "/projetoPortifolio/static/js/main.641ee1a0.js",
+    "static/js/453.6c02d200.chunk.js": "/projetoPortifolio/static/js/453.6c02d200.chunk.js",
+    "static/media/MM-BB-NYC-02.jpg": "/projetoPortifolio/static/media/MM-BB-NYC-02.c859dd1e3e041f5c23db.jpg",
+    "static/media/01-MacBook-Mockup-Raw-Series.jpg": "/projetoPortifolio/static/media/01-MacBook-Mockup-Raw-Series.de9c90137d760f04594b.jpg",
+    "static/media/01-SGNL-Tote-Bag-Mockup.jpg": "/projetoPortifolio/static/media/01-SGNL-Tote-Bag-Mockup.e9486dd82f79aee57641.jpg",
+    "static/media/tela.jpg": "/projetoPortifolio/static/media/tela.3d827653a26c8bb77d16.jpg",
+    "static/media/Ipad.jpg": "/projetoPortifolio/static/media/Ipad.938ef8d32747b364008d.jpg",
+    "static/media/Digital-Screen-Advertising-Mockup-02.jpg": "/projetoPortifolio/static/media/Digital-Screen-Advertising-Mockup-02.d63fbcefb6ab54ffad4b.jpg",
+    "static/media/cartao-3.jpg": "/projetoPortifolio/static/media/cartao-3.49d66f108619cdf135c2.jpg",
+    "static/media/macbook-16-pro-mockup-on-black-background-front-view.jpg": "/projetoPortifolio/static/media/macbook-16-pro-mockup-on-black-background-front-view.4f45319ae1417ca725a0.jpg",
+    "static/media/posts-2.png": "/projetoPortifolio/static/media/posts-2.78d2e76b659f66f6473f.png",
+    "static/media/Digital-Screen.jpg": "/projetoPortifolio/static/media/Digital-Screen.cd07e5c20f65be1c4908.jpg",
+    "static/media/Grid-Typo-2-intagram.jpg": "/projetoPortifolio/static/media/Grid-Typo-2-intagram.0fa6d0c174aa31dd7c55.jpg",
+    "static/media/GIF.gif": "/projetoPortifolio/static/media/GIF.9135451748e1ca22faec.gif",
+    "static/media/familia-tipografica.png": "/projetoPortifolio/static/media/familia-tipografica.6bf8ff5090851e019159.png",
+    "static/media/logo.png": "/projetoPortifolio/static/media/logo.a627a3296cfe6e8369fd.png",
+    "index.html": "/projetoPortifolio/index.html",
+    "main.546ba2a8.css.map": "/projetoPortifolio/static/css/main.546ba2a8.css.map",
+    "main.641ee1a0.js.map": "/projetoPortifolio/static/js/main.641ee1a0.js.map",
+    "453.6c02d200.chunk.js.map": "/projetoPortifolio/static/js/453.6c02d200.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc7d162f.css",
-    "static/js/main.d3f4869c.js"
+    "static/css/main.546ba2a8.css",
+    "static/js/main.641ee1a0.js"
   ]
 }
