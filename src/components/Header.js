@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation"; // 🚀 Novo pacote para animação
+import logoImage from "../images/logo.png";
 
 function Header({ lang, t, onChangeLanguage }) {
   return (
@@ -26,7 +27,7 @@ function Header({ lang, t, onChangeLanguage }) {
       </div>
 
       <div className="logo">
-        <img src="https://via.placeholder.com/100x50?text=Logo" alt="Logo" />
+        <img src={logoImage} alt="Logo" />
       </div>
 
       <div className="header-text">
